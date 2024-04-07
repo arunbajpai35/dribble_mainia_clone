@@ -7,6 +7,11 @@
 
 This project is a clone of the popular website, dribbble . It functions similarly to the original platform, allowing users to create accounts, watch the themes and logos, and leave feedback for mentors. The website features various categories for themes, logos ,web design, and more.
 
+## How to run this project
+
+- `npm install` #installing the required dependencies
+- `npm start` #start local server
+
 ## Features
 
 - Secure user authentication and authorization
