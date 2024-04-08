@@ -18,6 +18,7 @@ const MainRoutes = () => {
             <Route path="/login" element={<Login/>}></Route>
             <Route path="/products" element={<Product/>}></Route>
             <Route path="/signup" element={<SignUp/>}></Route>
+            <Route path="/dribble_mainia_clone/"  element={<HomePage/>}></Route>
             <Route path="/product/:id" element={
               <privateRoute>
                 <SingleProductPage />
